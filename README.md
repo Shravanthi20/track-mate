@@ -46,9 +46,6 @@ TrackMate follows a microservices architecture in which each service owns a dist
                               |
                     Notification Service
 
-     PostgreSQL  |  Redis  |  Kafka  |  Observability
-
-               Docker and Kubernetes
 ```
 
 ### Microservices
@@ -168,7 +165,7 @@ Kubernetes tooling such as Minikube or kind can be installed later for local orc
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Shravanthi20/track-mate
 cd track-mate
 ```
 
